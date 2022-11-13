@@ -27,7 +27,7 @@ both possible, and as stable as can be.
       transitive and others wishing to redistribute the Minecraft Forge source independently
       should seek permission of MCP or remove the MCP data files and request their users 
       to download MCP separately.
-      
+       
 And lastly, the countless community members who have spent time submitting bug reports, 
 pull requests, and just helping out the community in general. Thank you.
 
